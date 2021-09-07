@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**LovelyLM/lovelylm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **DingGuaGua** in ChengDu
 - 🌱 I’m currently learning Java,java and java...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![lovelylm's github stats](https://github-readme-stats.vercel.app/api?username=lovelylm&show_icons=true&theme=radical)
