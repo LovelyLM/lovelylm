@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Leiming
-- 🔭 I’m currently working on **掌厨网** in ChengDu
+- 🔭 I’m currently working on **HNAIR** in ChengDu
 - 🌱 I’m currently learning Java, Java and Java...
 - 📫 How to reach me: leiming520vip@gmail.com
 - 😄 Pronouns: lovelylm
